@@ -110,17 +110,6 @@ I'm continuing to develop my practical HPC experience through cluster configurat
 - **CPUT:** IT Essentials — PC Hardware and Software.
 - **Cisco Networking Academy:** CCNA 1 and 2 coursework.
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cleve0602&show_icons=true&hide_border=true" alt="GitHub Statistics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleve0602&layout=compact&hide_border=true" alt="Most Used Languages">
-</p>
-
-*Statistics are provided by a third-party service and may not always be available.*
 
 ## 🌐 Connect With Me
 
